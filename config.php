@@ -1,5 +1,5 @@
 <?php
-// ini_set('display_errors', 'On'); // change to 'Off' when live
+ini_set('display_errors', 'On'); // change to 'Off' when live
 
 define ("DB_NAME", "volodiny71299_Website_Practice");
 define ("DB_USERNAME", "_volodiny71299");
