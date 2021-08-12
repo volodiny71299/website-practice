@@ -109,9 +109,9 @@ h1, h2, h3, h4 {
 
 /* links in page */
 
-a:link{color: #d6d3d7;}
-a:visited{color: #ccc;}
-a:hover{color: #dfcfbc;}
+a:link{color: #2a9df4;}
+a:visited{color: #1167b1;}
+a:hover{color: #2AC1F4;}
 
 /* side links */
 a.side {
@@ -120,7 +120,7 @@ a.side {
     text-decoration: none;
 }
 a.side:link, a.side:visited {color: #636263;}
-a.side:hover {color:#8a1737; }
+a.side:hover {color:#2aaaf4; }
 
 
 /**** Results ****/
