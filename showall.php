@@ -75,10 +75,21 @@
                 </div>
                 <!-- / Heading and subtitle -->
                 
-                
+                <!-- Rating Area-->
+
+                <div class="flex-container">
+                    <div class="star-rating-sprite">
+
+                    </div>
+
+                    <div class="actual-rating">
+                        (<?php echo $find_rs['User Rating'] ?> rating based on <?php echo number_format($find_rs['Rating Count']) ?> ratings)
+                    </div>
+                </div>
+
                 
 
-                <!-- Price-->
+                <!-- Price -->
                 
                 <?php
                 
